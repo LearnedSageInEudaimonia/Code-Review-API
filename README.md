@@ -127,7 +127,7 @@ This project demonstrates:
 * Strong backend fundamentals
 * Real-world architectural decisions
 * Clean exception and persistence handling
-* SDE-2 level understanding of system design
+
 
 It is intentionally designed to be **defensible in technical interviews** and **aligned with industry backend expectations**.
 
