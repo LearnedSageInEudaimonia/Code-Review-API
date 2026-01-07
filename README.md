@@ -2,7 +2,7 @@
 
 ## Overview
 
-Smart Code Review & Complexity Analyzer is a **backend-focused Spring Boot project** that performs static analysis on Java source code to compute **complexity metrics, maintainability scores, code smells, and quality bands**. The system is designed with **industry-grade architecture**, clean separation of concerns, and persistence-first querying to reflect **real SDE-2 backend engineering practices**.
+Smart Code Review & Complexity Analyzer is a **backend-focused Spring Boot project** that performs static analysis on Java source code to compute **complexity metrics, maintainability scores, code smells, and quality bands**. The system is designed with **industry-grade architecture**, clean separation of concerns, and persistence-first querying to reflect **real backend engineering practices**.
 
 This project intentionally avoids UI-heavy or AI-driven shortcuts and focuses on **core backend correctness, extensibility, and production readiness**.
 
